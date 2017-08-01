@@ -1,0 +1,42 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+
+header {
+  background-image: url("images/flatiron.png");
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+section {
+  background-image: url("images/flatiron.png");
+  color: white;
+}
+
+footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+a {
+  color: white;
+}
+
+.copyright {
+  font-size: 11px;
+}
