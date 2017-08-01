@@ -4,8 +4,14 @@ body {
 }
 
 header {
-  background-image: url("images/flatiron.png");
+  background-image: url("../images/flatiron.png");
   color: white;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
 
 h2 {
@@ -18,12 +24,15 @@ h3 {
   font-weight: bold;
 }
 
-p {
+h4 {
   font-size: 14px;
 }
 
+p {
+  font-size: 18px;
+}
 section {
-  background-image: url("images/flatiron.png");
+  background-image: url("../images/flatiron.png");
   color: white;
 }
 
@@ -32,6 +41,7 @@ footer {
   background-color: dimgray;
   text-align: left;
 }
+
 
 a {
   color: white;
